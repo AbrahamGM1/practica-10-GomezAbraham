@@ -63,15 +63,33 @@
                 android:drawablePadding="8dp"
                 />
 
-        
 
-        <TextView
-            android:layout_marginTop="18dp"
+        <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/forget_password"
-            android:layout_gravity="right"
-            android:layout_marginRight="32dp"/>
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/sign_in_button"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="24dp"
+                android:layout_marginTop="18dp"/>
+
+
+            <TextView
+                android:layout_marginTop="18dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/forget_password"
+                android:layout_gravity="right"
+                android:paddingTop="36dp"
+                android:layout_marginRight="32dp"/>
+
+        </LinearLayout>
+
+
 
         <Button
             android:id="@+id/btnLogin"
@@ -79,7 +97,7 @@
             android:layout_width="148dp"
             android:layout_height="wrap_content"
             android:text="@string/login"
-            android:layout_marginBottom="140dp"
+            android:layout_marginBottom="80dp"
             android:background="@drawable/ic_buttom"
 
         />

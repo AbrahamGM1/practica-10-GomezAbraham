@@ -28,5 +28,5 @@
     <string name="subtitle_update_password">Por motivos de seguridad para cambiar tu contraseña, primero ingrese su contraseña actual</string>
     <string name="title_delete_account">Eliminar cuenta</string>
     <string name="subtitle_delete_account">Por motivos de seguridad para eliminar tu cuenta por completo, ingresa tu contraseña</string>
-
+    <string name="webclient">381965030869-s3cnulgqfmt3fad89fjnq492nv8g75ml.apps.googleusercontent.com</string>
 </resources>
