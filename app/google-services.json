@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822835034835",
+    "project_id": "fir-login-54834",
+    "storage_bucket": "fir-login-54834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822835034835:android:8c886d5b3ca80d3dab3226",
+        "android_client_info": {
+          "package_name": "gomez.abraham.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822835034835-ocvvtqdk7f7jqvdi6ea519bf8jd60e3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFHS98DyD7nOAr5wbJQkGgyDxP7l-K_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822835034835-ocvvtqdk7f7jqvdi6ea519bf8jd60e3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
